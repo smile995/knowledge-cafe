@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/03/pinterest_anatomy_cover.jpg?w=960&h=600&crop=1",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_image": "https://selfpublishing.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-28-at-4.07.20-PM-300x300.png",
+      "posted_date": "2023-09-15",
+      "reading_time": 10,
+      "hashtags": ["technology", "programming", "webdev"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://www.ampfluence.com/wp-content/uploads/2021/03/how-to-make-pinterest-boards-for-your-business.jpg",
+      "title": "Sample Article",
+      "author": "Jane Smith",
+      "author_image": "https://i.pinimg.com/280x280_RS/9b/fb/1a/9bfb1a91fd501d188426fab63abfe738.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 8,
+      "hashtags": ["travel", "adventure", "photography"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://www.ampfluence.com/wp-content/uploads/2021/03/amp-featuredimage-003.png",
+      "title": "Exploring Science",
+      "author": "David Wilson",
+      "author_image": "https://res.cloudinary.com/jerrick/image/upload/v1691658075/64d4a75bf1e4a5001daec45a.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": 12,
+      "hashtags": ["science", "research", "discovery"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://recurpost.com/wp-content/uploads/2020/10/How-to-use-pinterest.png",
+      "title": "Cooking Adventures",
+      "author": "Emily Johnson",
+      "author_image": "https://qph.cf2.quoracdn.net/main-thumb-396739260-200-vffgblflmjvvpnccufzdugcxwmxlqvqu.jpeg",
+      "posted_date": "2023-09-12",
+      "reading_time": 15,
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 5,
+      "cover_image": "https://qph.cf2.quoracdn.net/main-qimg-cdb95795b8f07af288c0186c0a471886",
+      "title": "Artistic Creations",
+      "author": "Michael Brown",
+      "author_image": "https://worital.com/wp-content/uploads/2020/06/2-3.png",
+      "posted_date": "2023-09-11",
+      "reading_time": 7,
+      "hashtags": ["art", "creativity", "painting"]
+    }
+  ]
+  
